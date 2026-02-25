@@ -7,7 +7,7 @@ Aplicación web que consume la API pública **dogapi.dog** para:
 Está pensada como proyecto de portfolio para practicar **AJAX**, **jQuery**, consumo de **APIs REST** y maquetación con **CSS responsive**.
 
 ## 🌐 Demo 
-https://sandragonzalezdiaz1.github.io/zaragoza-monuments-app/
+https://sandragonzalezdiaz1.github.io/dog-api-explorer/
 
 
 ## 📷 Capturas
